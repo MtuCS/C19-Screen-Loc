@@ -28,9 +28,7 @@ The framework consists of two independent but sequential stages:
 
 This stage outputs a probability score:
 
-\[
-P(\text{COVID})
-\]
+`P(COVID)`
 
 ---
 
@@ -43,9 +41,7 @@ P(\text{COVID})
 
 This stage is **conditionally activated** only when:
 
-\[
-P(\text{COVID}) > \tau
-\]
+`P(COVID) > τ`
 
 ---
 
