@@ -1,0 +1,13 @@
+# Replace or pin versions after you upload your actual code
+numpy
+pandas
+matplotlib
+scikit-learn
+opencv-python
+pillow
+tqdm
+pyyaml
+jupyter
+torch
+torchvision
+ultralytics
