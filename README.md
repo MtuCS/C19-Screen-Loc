@@ -27,7 +27,7 @@ This design separates the tasks into two specialized models rather than forcing 
 ## 2. Proposed Framework
 
 <p align="center">
-  <img src="assets/pipeline_overview.png" alt="Two-stage framework" width="760"/>
+  <img src="assets/pipeline_overview.jpg" alt="Two-stage framework" width="760"/>
 </p>
 
 **Pipeline summary:**
