@@ -50,6 +50,9 @@ P(\text{COVID}) > \tau
 ---
 
 ### Inference Pipeline
+<p align="center">
+  <img src="assets/pipeline_overview.jpg" alt="Two-stage framework" width="760"/>
+</p>
 
 1. Input CXR image  
 2. Compute COVID probability  
